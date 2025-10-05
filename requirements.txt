@@ -1,0 +1,26 @@
+# Requirements for Gold Jewelry Business Management System
+# This application primarily uses Python standard library modules
+
+# Core Python libraries (all built-in)
+# tkinter - GUI framework (built-in)
+# sqlite3 - Database operations (built-in)
+# datetime - Date/time handling (built-in)
+# os - File system operations (built-in)
+# shutil - File operations (built-in)
+# csv - CSV file handling (built-in)
+
+# No external dependencies required for basic functionality
+# All core features use Python standard library
+
+# Optional: For enhanced functionality (uncomment if needed)
+# pillow==10.0.1  # For image handling (if adding logos/icons)
+# openpyxl==3.1.2  # For Excel export functionality
+# reportlab==4.0.4  # For PDF report generation
+
+# Development dependencies (uncomment for development)
+# pytest==7.4.0  # For unit testing
+# black==23.7.0  # For code formatting
+
+# Installation instructions:
+# pip install -r requirements.txt
+# For development: pip install -r requirements.txt
